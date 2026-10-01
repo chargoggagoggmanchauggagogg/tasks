@@ -1,0 +1,15 @@
+{
+  "appId": "com.example.tasks",
+  "appName": "Tasks",
+  "webDir": "www",
+  "backgroundColor": "#EDF3F1",
+  "ios": {
+    "contentInset": "never"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "backgroundColor": "#12353A"
+    }
+  }
+}
